@@ -136,7 +136,7 @@ On Linux:
 
 9- Clone the GlistApp repo
 
-> git clone https://github.com/MSFTMRV/glistapp.git
+> git clone https://github.com/msftmrv/glistapp.git
 
 
 10- Run the GlistEngine
