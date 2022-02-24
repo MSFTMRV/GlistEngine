@@ -119,7 +119,7 @@ On Linux:
 
 7- Clone the GlistEngine repo
 
-> git clone https://github.com/yourgithubusername/glistengine.git
+> git clone https://github.com/msftmrv/glistengine.git
 
 
 8- Go to myglistapps folder
